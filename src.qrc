@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/mainIcon.png</file>
+        <file>images/about.png</file>
+        <file>images/addC.png</file>
+        <file>images/addR.png</file>
+        <file>images/area.png</file>
+        <file>images/arrow-down.png</file>
+        <file>images/bar.png</file>
+        <file>images/chart-areaspline.png</file>
+        <file>images/close.png</file>
+        <file>images/doc.png</file>
+        <file>images/file.png</file>
+        <file>images/help.png</file>
+        <file>images/line.png</file>
+        <file>images/load.png</file>
+        <file>images/newp.png</file>
+        <file>images/open.png</file>
+        <file>images/update.png</file>
+        <file>images/pie.png</file>
+        <file>images/removeC.png</file>
+        <file>images/removeR.png</file>
+        <file>images/save.png</file>
+        <file>images/scatter.png</file>
+        <file>images/table.png</file>
+        <file>images/polar.png</file>
+        <file>Diffnes.qss</file>
+        <file>samples/petrol.json</file>
+        <file>samples/population.json</file>
+        <file>samples/inflation.json</file>
+    </qresource>
+</RCC>
