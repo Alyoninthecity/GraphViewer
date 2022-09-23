@@ -1,5 +1,7 @@
 # GraphViewer
- University Project
+ University Project for object-oriented programming
+
+
 [Relazione](https://github.com/Alyoninthecity/GraphViewer/blob/main/relazione/relazione.pdf)
 
 # Istruzioni di compilazione ed esecuzione
@@ -13,3 +15,36 @@ progetto tramite i seguenti comandi:
 - qmake ./GraphViewer.pro
 - make
 - ./GraphViewer
+
+
+## Feedback Progetto di Programmazione ad Oggetti
+Studente: Chioru Massimo
+Valutazione del progetto: ottimo
+Voto finale dell'esame: 27
+
+Vincoli obbligatori
++ Soddisfatti
+
+Orientamento ad oggetti
++ Incapsulamento
++ Modularità (modello logico e la GUI sono separati)
++ Uso adeguato del polimorfismo
+
+Funzionalità
++ Selezione e zoom del grafico
++ Originale l'idea del polar chart
+- Migliorabile prevedendo qualche funzionalità aggiuntiva, come selezione
+  delle righe/colonne da eliminare o esportazione del grafico come immagine
+
+GUI
++ Visualizza i diversi tipi di dato in maniera opportuna
++ Usabile e intuitiva
++ Robusta, gestisce ridimensionamento
++ Utilizza colori, icone e stili
++ Complessivamente curata
+
+Relazione
++ Adeguata
+
+Suggerimenti non collegati alla valutazione
+Nessuno.
