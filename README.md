@@ -19,7 +19,9 @@ progetto tramite i seguenti comandi:
 
 ## Feedback Progetto di Programmazione ad Oggetti
 Studente: Chioru Massimo
+
 Valutazione del progetto: ottimo
+
 Voto finale dell'esame: 27
 
 Vincoli obbligatori
