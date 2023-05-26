@@ -1,6 +1,7 @@
 # GraphViewer
  University Project for object-oriented programming
 
+(Esempi del software nella RELAZIONE sotto indicata)
 
 [Relazione](https://github.com/Alyoninthecity/GraphViewer/blob/main/relazione/relazione.pdf)
 
