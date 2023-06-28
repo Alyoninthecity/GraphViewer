@@ -19,7 +19,7 @@ progetto tramite i seguenti comandi:
 - ./GraphViewer
 
 
-## Feedback Progetto di Programmazione ad Oggetti
+# Feedback Progetto di Programmazione ad Oggetti
 Studente: Chioru Massimo
 
 Valutazione del progetto: ottimo
