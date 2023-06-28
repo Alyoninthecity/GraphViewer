@@ -1,9 +1,10 @@
 # GraphViewer
  University Project for object-oriented programming
-
-(Esempi del software nella RELAZIONE sotto indicata)
-
+ 
 [Relazione](https://github.com/Alyoninthecity/GraphViewer/blob/main/relazione/relazione.pdf)
+
+## Software Screenshot (linux)
+![Screenshot](https://github.com/Alyoninthecity/GraphViewer/blob/main/relazione/Immagine.png?raw=true)
 
 # Istruzioni di compilazione ed esecuzione
 ## Prerequisiti
